@@ -18,7 +18,7 @@ Education
 Experience
 ----------
 
-**Senior Software Engineer/Tech Specialist(Azure) in NearShore Technology:**
+**Senior Software Engineer/Tech Specialist(Azure) in Blueriver:**
 
 Currently I am working as part of the DevOps Team with a big Client(BD), 
 to create and provide a site where customers can manage facilities and 
@@ -40,7 +40,7 @@ Travel in projects which connects to SAP/S4Hanna
 :   **C#/.NET:** My main experience is with C# language which I have already 10 years working with,
     from back-end to front-end using frameworks like MVC and reactjs.
 
-:   **Golang:** For my current project I've been working arround 2 years 
+:   **Golang:** For my current project I've been working around 2 years 
     with Go to create lambda functions to response to requests from a UI
     developed with ReactJS, I have experience creating REST APIs using 
     GO and API Gateway in AWS. 
@@ -68,6 +68,7 @@ Certifications
 
 * Microsoft:
 
+     * Microsoft Certified DevOps Engineer Expert
      * Microsoft Certified Solution Developer
      * Microsoft Fundamentals
 
