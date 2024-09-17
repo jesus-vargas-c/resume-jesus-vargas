@@ -18,7 +18,7 @@ Education
 Experience
 ----------
 
-**Senior Software Engineer/Tech Specialist(Azure) in Blueriver:**
+**Senior Software Engineer/Tech Specialist(Azure) in Goods & Services:**
 
 Currently I am working as part of the DevOps Team with a big Client(BD), 
 to create and provide a site where customers can manage facilities and 
